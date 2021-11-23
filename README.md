@@ -34,3 +34,7 @@ Without this tool, the missing chance is relative high, so this tool automate a 
 8. Position the mouse over the "Offensive slot" and send mouse clicks on it
 9. Waits the defined time and Repeats 8. n times as defined
 10. Closes the inventory by send the "Tab" key
+
+## Download
+
+https://github.com/sn4k3/Back4Blood-InfiniteGrenadeGlitch/releases/latest
