@@ -22,6 +22,8 @@ Without this tool, the missing chance is relative high, so this tool automate a 
 6. Settings are auto-saved once you quit the app
 7. Enjoy
 
+Note: Application must be running and with "Enabled" checked in order to work.
+
 ## Workflow
 
 1. You hold "G" or your defined key
