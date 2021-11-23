@@ -10,6 +10,8 @@ Anyway, sonner or latter this will be fixed and will render this useless.
 Note: This is not a hack! It take advantage of a glitch on the game, which consists in throw the grenade and drop it very fast.  
 Without this tool, the missing chance is relative high, so this tool automate a action without chance to errors.
 
+**Do not use this in "Swarm mode"! Don't be a lame noob!**
+
 ## How to use
 
 1. Run the application
